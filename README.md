@@ -1,6 +1,11 @@
 Olá! Sou Manuel Neto 👋<br>
 
-💻 Desenvolvedor Web Jr. 
+💻 Desenvolvedor Web Jr. <br>
+
+[![LinkedIn](https://img.shields.io/badge/-Manuel%20S.%20Neto-blue?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-neto-dev/) [![Threads](https://img.shields.io/badge/-Manuel%20S.%20Neto-black?style=plastic&logo=threads&logoColer=white)](https://www.threads.net/@m.sneto)
+[![Instagram](https://img.shields.io/badge/-Manuel%20S.%20Neto-critical?style=plastic&logo=instagram&colorLogo=#E4405F)](https://www.instagram.com/m.sneto/)
+[![Gmail](https://img.shields.io/badge/-Manuel%20S.%20Neto-red?style=plastic&logo=gmail&logoColor=#EA4335)](silveira.nettoo@gmail.com)
+
 
 🚀 Habilidades Técnicas
 <ul>
@@ -15,10 +20,3 @@ Olá! Sou Manuel Neto 👋<br>
   <li>TypeScrip.</li>
   <li>Next.js.</li>
 </ul>
-
-📫 Meus endereços<br>[![LinkedIn](https://img.shields.io/badge-ManuelNeto/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-neto-dev/)
-
-
- 
-Threads: https://www.threads.net/@m.sneto<br>
-Email: silveira.nettoo@gmail.com<br>
