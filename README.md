@@ -17,6 +17,6 @@ Olá! Sou Manuel Neto 👋<br>
 
 🌱 O que estou aprendendo
 <ul>
-  <li>TypeScrip.</li>
+  <li>TypeScript.</li>
   <li>Next.js.</li>
 </ul>
